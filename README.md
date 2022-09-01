@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pankajkr17
-- 👀 I’m interested in Blockchain Technology and Startups. 
-- 🌱 I’m currently learning Blockchain Technology. 
-- 💞️ I’m looking to collaborate on founding a Startup. 
+- 👋 Hi, I’m Pankaj.
+- 👀 I’m interested in Data Science, Data Analytics and Blockchain Technology. 
+- 🌱 I’m currently learning Data Science. 
 - 📫 How to reach me ... Email: pankajnaitik1177@gmail.com
 
 <!---
